@@ -1,0 +1,76 @@
+2014-06-24 14:12:10.956 HelloCordova[3615:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 14:12:11.081 HelloCordova[3615:70b] Unlimited access to network resources
+2014-06-24 14:12:12.570 HelloCordova[3615:70b] [CDVTimer][keyboard] 0.063002ms
+2014-06-24 14:12:12.570 HelloCordova[3615:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 14:12:12.571 HelloCordova[3615:70b] [CDVTimer][statusbar] 0.470996ms
+2014-06-24 14:12:12.571 HelloCordova[3615:70b] [CDVTimer][TotalPluginStartup] 1.457036ms
+2014-06-24 14:12:12.909 HelloCordova[3615:70b] Resetting plugins due to page load.
+2014-06-24 14:12:14.439 HelloCordova[3615:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/4A9403F0-933E-4382-83E1-B2B24EA43BBE/HelloCordova.app/www/index.html#/app/playlists
+2014-06-24 14:18:37.387 Piece[3832:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 14:18:37.396 Piece[3832:70b] Unlimited access to network resources
+2014-06-24 14:18:37.404 Piece[3832:70b] Fix applied for database locations?: YES
+2014-06-24 14:18:37.423 Piece[3832:70b] [CDVTimer][keyboard] 0.084996ms
+2014-06-24 14:18:37.423 Piece[3832:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 14:18:37.424 Piece[3832:70b] [CDVTimer][statusbar] 0.617981ms
+2014-06-24 14:18:37.424 Piece[3832:70b] [CDVTimer][TotalPluginStartup] 1.598001ms
+2014-06-24 14:18:37.534 Piece[3832:70b] Resetting plugins due to page load.
+2014-06-24 14:18:37.694 Piece[3832:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists
+2014-06-24 14:21:25.602 Piece[4002:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 14:21:25.609 Piece[4002:70b] Unlimited access to network resources
+2014-06-24 14:21:25.626 Piece[4002:70b] [CDVTimer][keyboard] 0.066996ms
+2014-06-24 14:21:25.626 Piece[4002:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 14:21:25.627 Piece[4002:70b] [CDVTimer][statusbar] 0.459015ms
+2014-06-24 14:21:25.627 Piece[4002:70b] [CDVTimer][TotalPluginStartup] 1.439035ms
+2014-06-24 14:21:25.665 Piece[4002:70b] Resetting plugins due to page load.
+2014-06-24 14:21:25.778 Piece[4002:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists
+2014-06-24 16:17:38.801 Piece[6963:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 16:17:38.811 Piece[6963:70b] Unlimited access to network resources
+2014-06-24 16:17:38.867 Piece[6963:70b] [CDVTimer][keyboard] 0.065029ms
+2014-06-24 16:17:38.867 Piece[6963:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 16:17:38.868 Piece[6963:70b] [CDVTimer][statusbar] 0.522017ms
+2014-06-24 16:17:38.868 Piece[6963:70b] [CDVTimer][TotalPluginStartup] 1.533985ms
+2014-06-24 16:17:38.973 Piece[6963:70b] Resetting plugins due to page load.
+2014-06-24 16:17:39.162 Piece[6963:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists
+2014-06-24 16:52:20.676 Piece[7487:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 16:52:20.683 Piece[7487:70b] Unlimited access to network resources
+2014-06-24 16:52:20.714 Piece[7487:70b] [CDVTimer][keyboard] 0.061989ms
+2014-06-24 16:52:20.715 Piece[7487:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 16:52:20.715 Piece[7487:70b] [CDVTimer][statusbar] 0.517011ms
+2014-06-24 16:52:20.716 Piece[7487:70b] [CDVTimer][TotalPluginStartup] 1.500010ms
+2014-06-24 16:52:20.812 Piece[7487:70b] Resetting plugins due to page load.
+2014-06-24 16:52:20.937 Piece[7487:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists
+2014-06-24 16:53:13.240 Piece[7487:70b] setting movie path: 
+2014-06-24 16:53:14.227 Piece[7487:70b] setting movie path: http://yinyueshiting.baidu.com/data2/music/120093551/120093551.mp3?xcode=1b6e8d745c2b717fb241b3fe621d4be0f851dfe6c2a3c21e
+2014-06-24 16:53:14.259 Piece[7487:70b] setting movie path: 
+2014-06-24 16:53:14.261 Piece[7487:70b] setting movie path: http://yinyueshiting.baidu.com/data2/music/120093551/120093551.mp3?xcode=1b6e8d745c2b717fb241b3fe621d4be0f851dfe6c2a3c21e
+2014-06-24 16:53:15.460 Piece[7487:627b] RTCReporting: resolve from http://pancake.apple.com/bags/hls?version=4.12
+Jun 24 16:54:37 Junos-MacBook-Pro.local Piece[7487] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-06-24 17:00:20.736 Piece[7982:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 17:00:20.746 Piece[7982:70b] Unlimited access to network resources
+2014-06-24 17:00:20.770 Piece[7982:70b] [CDVTimer][keyboard] 0.097990ms
+2014-06-24 17:00:20.770 Piece[7982:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 17:00:20.771 Piece[7982:70b] [CDVTimer][statusbar] 0.559986ms
+2014-06-24 17:00:20.771 Piece[7982:70b] [CDVTimer][TotalPluginStartup] 1.773000ms
+2014-06-24 17:00:20.902 Piece[7982:70b] Resetting plugins due to page load.
+2014-06-24 17:00:21.153 Piece[7982:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists
+2014-06-24 17:30:19.163 Piece[8349:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 17:30:19.174 Piece[8349:70b] Unlimited access to network resources
+2014-06-24 17:30:19.218 Piece[8349:70b] [CDVTimer][keyboard] 0.127017ms
+2014-06-24 17:30:19.311 Piece[8349:70b] [CDVTimer][splashscreen] 92.212975ms
+2014-06-24 17:30:19.311 Piece[8349:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 17:30:19.312 Piece[8349:70b] [CDVTimer][statusbar] 0.437021ms
+2014-06-24 17:30:19.312 Piece[8349:70b] [CDVTimer][TotalPluginStartup] 94.226003ms
+2014-06-24 17:30:19.432 Piece[8349:70b] Resetting plugins due to page load.
+2014-06-24 17:30:19.596 Piece[8349:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists
+2014-06-24 17:30:22.217 Piece[8349:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-06-24 17:30:22.221 Piece[8349:70b] THREAD WARNING: ['InAppBrowser'] took '79.726807' ms. Plugin should use a background thread.
+2014-06-24 17:30:31.611 Piece[8349:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-06-24 17:38:36.340 Piece[8801:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-24 17:38:36.347 Piece[8801:70b] Unlimited access to network resources
+2014-06-24 17:38:36.365 Piece[8801:70b] [CDVTimer][keyboard] 0.078022ms
+2014-06-24 17:38:36.374 Piece[8801:70b] [CDVTimer][splashscreen] 7.906973ms
+2014-06-24 17:38:36.374 Piece[8801:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-24 17:38:36.375 Piece[8801:70b] [CDVTimer][statusbar] 0.367999ms
+2014-06-24 17:38:36.375 Piece[8801:70b] [CDVTimer][TotalPluginStartup] 9.784997ms
+2014-06-24 17:38:36.418 Piece[8801:70b] Resetting plugins due to page load.
+2014-06-24 17:38:36.530 Piece[8801:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/playlists

@@ -1,0 +1,27 @@
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes.dex : \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/BuildConfig.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/HelloCordova.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$attr.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$drawable.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$string.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$xml.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/dexedLibs/classes-592783106744c393e8cebc1573327472.jar \
