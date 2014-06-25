@@ -9,7 +9,7 @@ angular.module('starter', ['ionic', 'ionic.contrib.frostedGlass'])
 
 .run(function($ionicPlatform) {
   if($ionicPlatform.is('android')) {
-    alert('This demo is meant for iOS and Android 4.4, it will not work on older Androids!');
+    // alert('This demo is meant for iOS and Android 4.4, it will not work on older Androids!');
   }
 })
 

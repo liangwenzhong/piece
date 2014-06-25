@@ -25,14 +25,16 @@ angular.module('piece')
 	}];
 
 	$scope.recentItems = [{
-		name: 'search',
-		title: 'home',
+		name: '2048',
 		imgUrl: 'img/game.png',
 		linkUrl: "apps/2048/index.html"
 	}, {
-		name: 'browse',
-		title: 'browse',
+		name: '聊天',
 		imgUrl: 'img/game.png',
 		linkUrl: "apps/chat/index.html"
+	}, {
+		name: '卡片',
+		imgUrl: 'img/game.png',
+		linkUrl: "apps/card/index.html"
 	}];
 })

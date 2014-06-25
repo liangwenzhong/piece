@@ -96,3 +96,15 @@ Jun 24 16:54:37 Junos-MacBook-Pro.local Piece[7487] <Error>: CGImageCreate: inva
 2014-06-25 10:20:28.213 Piece[720:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DD29102B-EA07-4273-A1E3-5487106BD3CB/Piece.app/www/index.html#/app/home
 2014-06-25 14:59:37.765 Piece[720:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
 2014-06-25 14:59:37.784 Piece[720:70b] THREAD WARNING: ['InAppBrowser'] took '194.042969' ms. Plugin should use a background thread.
+2014-06-25 16:00:55.896 Piece[23760:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-25 16:00:55.902 Piece[23760:70b] Unlimited access to network resources
+2014-06-25 16:00:55.919 Piece[23760:70b] Fix applied for database locations?: YES
+2014-06-25 16:00:55.920 Piece[23760:70b] Restoring old webstorage backup. From: '/Users/Juno/Library/Application Support/iPhone Simulator/7.1/Applications/02851965-4BC1-4808-AE02-1C44AB9BC9F7/Library/WebKit/LocalStorage/file__0.localstorage' To: '/Users/Juno/Library/Application Support/iPhone Simulator/7.1/Applications/02851965-4BC1-4808-AE02-1C44AB9BC9F7/Library/Caches/file__0.localstorage'.
+2014-06-25 16:00:55.922 Piece[23760:70b] Removing old webstorage backup: '/Users/Juno/Library/Application Support/iPhone Simulator/7.1/Applications/02851965-4BC1-4808-AE02-1C44AB9BC9F7/Library/WebKit/LocalStorage/file__0.localstorage'.
+2014-06-25 16:00:55.936 Piece[23760:70b] [CDVTimer][keyboard] 0.061035ms
+2014-06-25 16:00:56.205 Piece[23760:70b] [CDVTimer][splashscreen] 269.023001ms
+2014-06-25 16:00:56.206 Piece[23760:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-25 16:00:56.206 Piece[23760:70b] [CDVTimer][statusbar] 0.451982ms
+2014-06-25 16:00:56.207 Piece[23760:70b] [CDVTimer][TotalPluginStartup] 271.071970ms
+2014-06-25 16:00:56.588 Piece[23760:70b] Resetting plugins due to page load.
+2014-06-25 16:00:56.947 Piece[23760:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/02851965-4BC1-4808-AE02-1C44AB9BC9F7/Piece.app/www/index.html#/app/store

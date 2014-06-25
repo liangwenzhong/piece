@@ -34,14 +34,14 @@
   <body ng-app="starter" animation="slide-left-right-ios7">
 
     <ion-pane ng-controller="PageCtrl">
-      <ion-header-bar frosted-bar title="'Blurred...man!'" type="bar-frosted"></ion-header-bar>
+      <ion-header-bar frosted-bar title="'Blurred...man!'" type="bar-frosted" class="bar-dark"></ion-header-bar>
       <ion-content has-header="true" has-footer="true" padding="true" start-y="120">
         <ol class="messages">
 					<li ng-repeat="message in messages" ion-bind-html-unsafe="message.content">
 					</li>
 				</ol>
       </ion-content>
-      <footer class="bar bar-footer bar-frosted">
+      <footer class="bar bar-footer bar-frosted bar-dark">
         <button class="button button-clear button-positive" ng-click="add()">Add Message</button>
       </footer>
     </pane>
