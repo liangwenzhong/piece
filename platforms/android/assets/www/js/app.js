@@ -29,15 +29,6 @@ angular.module('piece', ['ionic'])
     templateUrl: "modules/menu/partial.html",
     controller: 'MenuController'
   })
-    .state('app.home', {
-      url: "/home",
-      views: {
-        'menuContent': {
-          templateUrl: "modules/home/partial.html",
-          controller: 'HomeController'
-        }
-      }
-    })
     .state('app.setting', {
       url: "/setting",
       views: {
@@ -57,5 +48,5 @@ angular.module('piece', ['ionic'])
       }
     });
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/home');
+  $urlRouterProvider.otherwise('/app/store');
 });

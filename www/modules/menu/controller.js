@@ -11,7 +11,7 @@ angular.module('piece')
 	};
 
 	$scope.openInWebView = function(item) {
-		var ref = window.open("apps/2048/index.html", '_blank', 'location=no,toolbar=yes,closebuttoncaption=Home,disallowoverscroll=yes,allowInlineMediaPlayback=yes');
+		var ref = window.open(item.linkUrl, '_blank', 'location=no,toolbar=yes,closebuttoncaption=Home,disallowoverscroll=yes,allowInlineMediaPlayback=yes');
 	};
 
 	$scope.favoriteItems = [{
@@ -25,16 +25,16 @@ angular.module('piece')
 	}];
 
 	$scope.recentItems = [{
-		name: 'search',
-		title: 'home',
-		imgUrl: 'img/game.png'
+		name: '2048',
+		imgUrl: 'img/game.png',
+		linkUrl: "apps/2048/index.html"
 	}, {
-		name: 'browse',
-		title: 'browse',
-		imgUrl: 'img/game.png'
+		name: '聊天',
+		imgUrl: 'img/game.png',
+		linkUrl: "apps/chat/index.html"
 	}, {
-		name: 'playlists',
-		title: 'playlists',
-		imgUrl: 'img/game.png'
+		name: '卡片',
+		imgUrl: 'img/game.png',
+		linkUrl: "apps/card/index.html"
 	}];
 })
