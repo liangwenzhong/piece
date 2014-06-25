@@ -108,3 +108,16 @@ Jun 24 16:54:37 Junos-MacBook-Pro.local Piece[7487] <Error>: CGImageCreate: inva
 2014-06-25 16:00:56.207 Piece[23760:70b] [CDVTimer][TotalPluginStartup] 271.071970ms
 2014-06-25 16:00:56.588 Piece[23760:70b] Resetting plugins due to page load.
 2014-06-25 16:00:56.947 Piece[23760:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/02851965-4BC1-4808-AE02-1C44AB9BC9F7/Piece.app/www/index.html#/app/store
+2014-06-25 20:08:31.222 Piece[46395:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-25 20:08:31.232 Piece[46395:70b] Unlimited access to network resources
+2014-06-25 20:08:31.282 Piece[46395:70b] [CDVTimer][keyboard] 0.106990ms
+2014-06-25 20:08:31.330 Piece[46395:70b] [CDVTimer][splashscreen] 47.402024ms
+2014-06-25 20:08:31.331 Piece[46395:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-06-25 20:08:31.331 Piece[46395:70b] [CDVTimer][statusbar] 0.487983ms
+2014-06-25 20:08:31.332 Piece[46395:70b] [CDVTimer][TotalPluginStartup] 49.612045ms
+2014-06-25 20:08:31.604 Piece[46395:70b] Resetting plugins due to page load.
+2014-06-25 20:08:32.019 Piece[46395:70b] Finished load of: file:///Users/Juno/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/02851965-4BC1-4808-AE02-1C44AB9BC9F7/Piece.app/www/index.html#/app/store
+2014-06-25 20:09:00.785 Piece[46395:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-06-25 20:09:00.789 Piece[46395:70b] THREAD WARNING: ['InAppBrowser'] took '75.631104' ms. Plugin should use a background thread.
+2014-06-25 20:09:12.235 Piece[46395:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-06-25 20:09:20.151 Piece[46395:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
