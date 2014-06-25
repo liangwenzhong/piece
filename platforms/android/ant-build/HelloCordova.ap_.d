@@ -64,7 +64,6 @@
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/modules \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/plugins \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/README.md \
-/Users/Juno/Desktop/github/piece/platforms/android/assets/www/templates \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/apps/2048 \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/apps/2048/CONTRIBUTING.md \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/apps/2048/favicon.ico \
@@ -198,9 +197,4 @@
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www \
 /Users/Juno/Desktop/github/piece/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www/splashscreen.js \
-/Users/Juno/Desktop/github/piece/platforms/android/assets/www/templates/browse.html \
-/Users/Juno/Desktop/github/piece/platforms/android/assets/www/templates/menu.html \
-/Users/Juno/Desktop/github/piece/platforms/android/assets/www/templates/playlist.html \
-/Users/Juno/Desktop/github/piece/platforms/android/assets/www/templates/playlists.html \
-/Users/Juno/Desktop/github/piece/platforms/android/assets/www/templates/search.html \
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/AndroidManifest.xml \
