@@ -3,6 +3,22 @@
     <button menu-toggle="left"class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="has-header" scroll="false" overflow-scroll="true">
-    store
+    
+
+
+<ion-slide-box on-slide-changed="slideHasChanged($index)">
+  <ion-slide>
+    <div class="box blue" style="height: 200px;">
+    	<img src="img/slider1.png" alt="" style="width: 100%;height: 100%;">
+    </div>
+  </ion-slide>
+  <ion-slide>
+    <div class="box yellow" style="height: 200px;">
+    	<img src="img/slider2.png" alt="" style="width: 100%;height: 100%;">
+    </div>
+  </ion-slide>
+</ion-slide-box>
+
+
   </ion-content>
 </ion-view>

@@ -3,6 +3,8 @@
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/BuildConfig.class \
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/HelloCordova.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/Manifest$permission.class \
+/Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/Manifest.class \
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$attr.class \
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$drawable.class \
 /Users/Juno/Desktop/github/piece/platforms/android/ant-build/classes/com/ionicframework/starter/R$string.class \

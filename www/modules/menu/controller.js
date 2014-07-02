@@ -25,16 +25,24 @@ angular.module('piece')
 	}];
 
 	$scope.recentItems = [{
+		name: 'FlappyBird',
+		imgUrl: 'img/icon/flappy.png',
+		linkUrl: "apps/flappy-bird/index.html"
+	}, {
 		name: '2048',
-		imgUrl: 'img/game.png',
+		imgUrl: 'img/icon/2048.png',
 		linkUrl: "apps/2048/index.html"
 	}, {
+		name: 'FlappyBird2048',
+		imgUrl: 'img/icon/2048.png',
+		linkUrl: "apps/Flappy-2048/index.html"
+	}, {
 		name: '聊天',
-		imgUrl: 'img/game.png',
+		imgUrl: 'img/icon/chat.png',
 		linkUrl: "apps/chat/index.html"
 	}, {
 		name: '卡片',
-		imgUrl: 'img/game.png',
+		imgUrl: 'img/icon/card.png',
 		linkUrl: "apps/card/index.html"
 	}];
 })

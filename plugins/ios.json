@@ -38,7 +38,15 @@
                             "xml": "false",
                             "count": 2
                         }
-                    ]
+                    ],
+                    "CFNetwork.framework": [],
+                    "CoreFoundation.framework": [],
+                    "SystemConfiguration.framework": [],
+                    "Foundation.framework": [],
+                    "UIKit.framework": [],
+                    "CoreTelephony.framework": [],
+                    "Security.framework": [],
+                    "libz.dylib": []
                 }
             }
         }
